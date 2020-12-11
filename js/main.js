@@ -99,7 +99,7 @@ $(document).ready(function() {
     }, 6000);   
 
     var texts = [
-        'Python', 'HTML', 'JavaScript',
+        'Python', 'HTML', 'JavaScript', 'Electron',
         'CSS', 'Adobe Illustrator', 'PHP', 'jQuery',
         'Laravel', 'C++', 'C#',
         'Java', 'MySQL', 'Adobe Photoshop',
