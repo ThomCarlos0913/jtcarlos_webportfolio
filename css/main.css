@@ -250,6 +250,11 @@ html, body {
   }
 }
 
+.company-link {
+  color: white;
+  text-decoration: underline;
+}
+
 .nav-mobile-icon, .x-icon {
   z-index: 5;
   width: 30px;
